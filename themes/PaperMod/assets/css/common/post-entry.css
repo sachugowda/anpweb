@@ -47,6 +47,10 @@
     transform: scale(0.96);
 }
 
+.post-entry:hover {
+    border: 2px solid var(--midpurple);
+}
+
 .tag-entry .entry-cover {
     display: none;
 }

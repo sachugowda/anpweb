@@ -15,6 +15,7 @@ draft: false
 ---
 **Ongoing**
 ---
+
 - Chief Investigator for Sponserd Project "Automatic early Detection of Lung Cancer from LDCT Images based on Deep Neural Networks". 30 Lakhs, 2023.
 - Chief Investigator for project "Knowledge Partner for Cloud Development and Architecture", Tata Consultancy Services(TCS)-iON, 21.68 Lakhs, 2022-24
 - Co-cordinator for ISRO-RESPOND sponsored R&D project “Customized reconfigurable platform for Image/Video compression based on deep learning algorithms for hyperspectral Image”, sanctioned with the financial outlay of ₹29,34,880/-, 2021-2023.
