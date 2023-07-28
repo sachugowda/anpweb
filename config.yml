@@ -4,6 +4,9 @@ title: Prof. Annappa B
 paginate: 5
 theme: PaperMod
 
+# assets:
+#   - disableHLJS: true
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -20,17 +23,17 @@ params:
   title: Prof. Annappa B
   description: "Experienced Professor, Former Head of the Department of Computer Science and Engineering and Chaimen CDC at **National Institute of Technology Karnataka**, Surathkal, INDIA with a demonstrated history of working in the higher education Institution. Well known Academician and Researcher in Computer Science & Engineering with Ph.D. and M.Tech. in Computer Science & Engineering from National Institute of Technology Karnataka and B.E. in Computer Science & Engineering, from Govt. B.D.T. College of Engineering Davangere, Karnataka. Working primarily in the areas of Cloud Computing, Data Science and Software Engineering."
   keywords: [Blog, Portfolio, Data Science]
-  author: Annappa
+  # author: Annappa
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -49,7 +52,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Prof. Annappa B "
-    subtitle: "**Professor** - Dept of CSE | **Chairmen** - Career Development Center (CDC) | **President** - IIC, **National Institute of Technology Karnataka (NITK),** Surathkal, India."
+    subtitle: "**Professor** - Dept of CSE | **Chairman** - Career Development Center (CDC) | **President** - IIC, **National Institute of Technology Karnataka (NITK),** Surathkal, India."
     imageUrl: "picture.jpeg"
     imageWidth: 120
     imageHeight: 120
@@ -67,11 +70,9 @@ params:
         url: teaching
 
   # home-info mode
-  homeInfoParams:
-    Title: "Welcome! \U0001F44B"
-    Content: "This is the website of **Chanin Nantasenamat, Ph.D.** and
-    I create educational content on data science and bioinformatics.
-    Some of you may know me as the **Data Professor**."
+  # homeInfoParams:
+  #   Title: "Welcome! \U0001F44B"
+  #   Content: ""
 
   socialIcons:
     - name: CV
@@ -88,21 +89,20 @@ params:
       url: "https://www.scopus.com/authid/detail.uri?authorId=35179174200"
 
   ## google:
-    #  SiteVerificationTag: "XYZabc"
-   # bing:
-    #  SiteVerificationTag: "XYZabc"
+  #  SiteVerificationTag: "XYZabc"
+  # bing:
+  #  SiteVerificationTag: "XYZabc"
   #  yandex:
-    #  SiteVerificationTag: "XYZabc"
+  #  SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-
   editPost:
-#    URL: "https://github.com/chanin-www/content"
-#    Text: "Suggest Changes" # edit text
+    #    URL: "https://github.com/chanin-www/content"
+    #    Text: "Suggest Changes" # edit text
     URL: ""
     Text: "" # edit text
     appendFilePath: true # to append file path to Edit link
@@ -117,6 +117,13 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+  assets:
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+
 menu:
   main:
     - identifier: about
@@ -151,7 +158,7 @@ menu:
 # pygmentsUseClasses: true
 # markup:
 #     highlight:
-#         # anchorLineNos: true
+#         anchorLineNos: true
 #         codeFences: true
 #         guessSyntax: true
 #         lineNos: true

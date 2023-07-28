@@ -40,3 +40,8 @@
 .button:active {
     transform: scale(0.96);
 }
+
+.button:hover {
+    background: var(--midpurple);
+    color: var(--theme);
+}

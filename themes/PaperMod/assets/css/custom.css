@@ -1,0 +1,11 @@
+/* assets/css/custom.css */
+
+.list-item {
+    border: 1px solid #000; /* Change the color and border style as needed */
+    padding: 10px; /* Add padding for spacing */
+  }
+  
+  .no-bullets {
+    list-style-type: none; /* Remove the list bullets */
+  }
+  

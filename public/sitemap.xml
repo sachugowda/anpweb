@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//chanin.tech/test/</loc>
+  </url><url>
+    <loc>//chanin.tech/about/</loc>
+  </url><url>
+    <loc>//chanin.tech/awards/</loc>
+  </url><url>
+    <loc>//chanin.tech/categories/</loc>
+  </url><url>
+    <loc>//chanin.tech/contact/</loc>
+  </url><url>
+    <loc>//chanin.tech/lab/</loc>
+  </url><url>
+    <loc>//chanin.tech/talks/</loc>
+  </url><url>
+    <loc>//chanin.tech/</loc>
+  </url><url>
+    <loc>//chanin.tech/publications/</loc>
+  </url><url>
+    <loc>//chanin.tech/service/</loc>
+  </url><url>
+    <loc>//chanin.tech/projects/</loc>
+  </url><url>
+    <loc>//chanin.tech/teaching/</loc>
+  </url><url>
+    <loc>//chanin.tech/tags/</loc>
+  </url>
+</urlset>
