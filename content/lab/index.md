@@ -19,6 +19,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Current Students**
 ---
+- [*Sankar P*], Postdoc Researcher.
 - [*Manjunatha S H*](https://cse.nitk.ac.in/researchscholars/manjunatha), PhD Student.
 - [*Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad), PhD Student.
 - [*Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), PhD Student.
