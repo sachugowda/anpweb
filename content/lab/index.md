@@ -47,5 +47,5 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Divya M*](https://www.linkedin.com/in).
 - [*Gita Shah*](https://www.linkedin.com/in).
 ---
-**Recent Updateds**
+**Recent Updates**
 ---
