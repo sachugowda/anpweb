@@ -13,7 +13,7 @@ cover:
 showtoc: false
 draft: false
 ---
-
+- IEEE-MSS Outstanding Service Award 2022.
 - Best Ph.D. thesis supervisor award from BiTES, Bangalore for the year 2018 and 2020.    
 - First Rank with Institute Gold Medal in M.Tech. from N.I.T.K. Surathkal.    
 - Five Best paper awards for the research papers presented in international conferences in India and Abroad.    
