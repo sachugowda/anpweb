@@ -20,10 +20,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 **Current Students**
 ---
 - *Sankar P*, Postdoc Researcher.
-- [*Manjunatha S H*](https://cse.nitk.ac.in/researchscholars/manjunatha), PhD Student.
 - [*Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad), PhD Student.
-- [*Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), PhD Student.
-- [*Shubham Dodia*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), PhD Student.
 - [*Aarabhi Putti*](https://www.linkedin.com/in/aarabhi-putty-9b6270137/), PhD Student.
 - [*Sachin D N*](https://www.linkedin.com/in/sachin-dudda-nagaraju-a3838976/), PhD Student.
 - [*Satish Ambesenge*](https://www.linkedin.com/in/sateesh-ambesange-3020185/), PhD Student.
@@ -34,6 +31,9 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 **Alumni**
 ---
 **PhD**
+- [*Shubham Dodia*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at VVIT, Pune).
+- [*Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at SJCE, Mangalore).
+- [*Manjunatha S H*](https://cse.nitk.ac.in/researchscholars/manjunatha), (Now Faculty at NMAMIT, Nitte).
 - [*Dr. Manoj Kumar M V*](https://www.linkedin.com/in). (Now Faculty at NMIT, Bangalore).
 - [*Dr. Sumith N, Ph.D*](https://www.linkedin.com/in). (Now Faculty at MIT, Manipal).
 - [*Dr. Likewin Thomas*](https://www.linkedin.com/in). (Now Faculty at PESITM, Shivamogga).
