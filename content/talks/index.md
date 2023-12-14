@@ -15,9 +15,11 @@ draft: false
 ---
 **2023**
 ---
+- Invited talk on “AI for Research” (on Dec 2023) during FDP at Smt Rukmini Shedthi Memorial National Government First Grade College, Barkur on Dec 2023.
+- Keynote talk on “Generative AI” During Google AI Campus Fest at Mysuru, organized by Google and Vidyavardhaka College of Engineering, Mysuru on Nov 2023.
 - Invited talk on “Federated Learning and Explainable AI” (on June 2023) during
-the Seven-Days SERB Sponsored high-end workshop titled "Distributed Intelligence: Convergence of AI and distributed computing systems". IIIT Kottayam, Kerala.
-- Invited lecture on “Explainable AI”, on March 2023 organised by Vidyavardhaka College of Engineering, Mysuru.
+the Seven-Days SERB Sponsored high-end workshop titled "Distributed Intelligence: Convergence of AI and distributed computing systems." IIIT Kottayam, Kerala.
+- Invited lecture on “Explainable AI”, on March 2023, organized by Vidyavardhaka College of Engineering, Mysuru.
 ---
 **2022**
 ---
