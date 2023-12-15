@@ -16,7 +16,7 @@ draft: false
 **2023**
 ---
 - [***A Workflow Scheduling Approach With Modified Fuzzy Adaptive Genetic Algorithm in IaaS Clouds***](https://ieeexplore.ieee.org/document/9772303)  
-Naela Rizvi, Dharavath Ramesh , Lipo Wang , Annappa Basava
+Naela Rizvi, Dharavath Ramesh , Lipo Wang , Annappa Basava  
 SN Computer Science
 - [***A Multimodal Contrastive Federated Learning for Digital Healthcare***](https://link.springer.com/article/10.1007/s42979-023-02124-1)  
 DN Sachin, B Annappa, Sateesh Ambasange, Alan E Tony   
