@@ -15,6 +15,7 @@ draft: false
 ---
 **2023**
 ---
+- Delivered a session on "Generative AI" as part of the 6-day ATAL FDP titled "Generative AI and Metaverse: Tools and Technologies for Improving the Teaching and Learning Process in Higher Education," organized at GITAM Deemed University, Bengaluru campus. 
 - Invited talk on “AI for Research” (on Dec 2023) during FDP at Smt Rukmini Shedthi Memorial National Government First Grade College, Barkur on Dec 2023.
 - Keynote talk on “Generative AI” During Google AI Campus Fest at Mysuru, organized by Google and Vidyavardhaka College of Engineering, Mysuru on Nov 2023.
 - Invited talk on “Federated Learning and Explainable AI” (on June 2023) during
