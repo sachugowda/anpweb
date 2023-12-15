@@ -47,5 +47,6 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Divya M*](https://www.linkedin.com/in).
 - [*Gita Shah*](https://www.linkedin.com/in).
 ---
-**Recent Updates**
+**Project Staff**
 ---
+- [*Chaitanya Lakshmi*](https://cse.l2.nitk.ac.in/researchscholars/chaitanya-lakshmi), Proejct Assistant.
