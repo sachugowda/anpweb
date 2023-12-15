@@ -15,6 +15,15 @@ draft: false
 ---
 **2023**
 ---
+- [***A Multimodal Contrastive Federated Learning for Digital Healthcare***](https://link.springer.com/article/10.1007/s42979-023-02124-1)  
+DN Sachin, B Annappa, Sateesh Ambasange, Alan E Tony   
+SN Computer Science
+- [***ARIMA-PID: container auto scaling based on predictive analysis and control theory***](https://link.springer.com/article/10.1007/s11042-023-16587-0)  
+Nisarg S Joshi, Raghav Raghuwanshi, Yash M Agarwal, B Annappa, DN Sachin   
+Multimedia Tools and Applications
+- [***Cross-Database Facial Expression Recognition using CNN with Attention Mechanism***](https://ieeexplore.ieee.org/abstract/document/10308238)  
+Jatin Chandra, B Annappa   
+2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)
 - [***KAC segnet: a novel kernel based active contour method for lung nodule segmentation and classification using dense alexnet framework***](https://www.worldscientific.com/doi/abs/10.1142/S0219622023500700)  
 S Dodia, B Annappa, PA Mahesh   
 International Journal of Information Technology & Decision Making		2023
