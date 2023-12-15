@@ -49,4 +49,4 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Project Staff**
 ---
-- [*Chaitanya Lakshmi*](https://cse.l2.nitk.ac.in/researchscholars/chaitanya-lakshmi), Proejct Assistant.
+- [*Chaitanya Lakshmi*](https://cse.l2.nitk.ac.in/researchscholars/chaitanya-lakshmi), Project Assistant.
