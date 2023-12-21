@@ -38,6 +38,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Chaitanya Lakshmi*](https://cse.l2.nitk.ac.in/researchscholars/chaitanya-lakshmi), Project Assistant.
 
 **MTech Students**
+
 - Ambaliya Nishant
 - Govind Yadhav
 - Vishwas
