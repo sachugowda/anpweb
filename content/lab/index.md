@@ -19,16 +19,22 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Current Team**
 ---
+
 **Postdoc Researcher**
+
 - *Sankar P*.
+
 **PhD Students**
+
 - [*Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad).
 - [*Aarabhi Putti*](https://www.linkedin.com/in/aarabhi-putty-9b6270137/).
 - [*Sachin D N*](https://www.linkedin.com/in/sachin-dudda-nagaraju-a3838976/).
 - [*Satish Ambesenge*](https://www.linkedin.com/in/sateesh-ambesange-3020185/).
 - [*Sneha H R*](https://nmit.irins.org/profile/264945), PhD Student.
 - [*Naveen Kumar M R*](https://scholar.google.com/citations?user=6e9zAAoAAAAJ&hl=en).
+  
 **Project Assistant**
+
 - [*Chaitanya Lakshmi*](https://cse.l2.nitk.ac.in/researchscholars/chaitanya-lakshmi), Project Assistant.
 ---
 **Alumni**
