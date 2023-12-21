@@ -39,11 +39,24 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 
 **MTech Students**
 
-- Ambaliya Nishant
-- Govind Yadhav
-- Vishwas
-- Saurav Singh
-- Prabhuddo Paul
+- Ambaliya Nishant.
+- Govind Yadhav.
+- Vishwas.
+- Saurav Singh.
+- Prabhuddo Paul.
+
+**BTech Students**
+
+- Shilwant Roy
+- Rishad Shetty
+- Vaishnavi L
+- Hrushikesh J
+- Samyak Sanjay Sand
+- Siddharth Srinivasan
+- Ajit Kumar Panigrahi
+- Balaji
+- Jyoti Suman Sahoo
+  
 ---
 **Alumni**
 ---
