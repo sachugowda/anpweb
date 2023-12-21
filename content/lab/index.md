@@ -33,6 +33,9 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Alumni**
 ---
+
+**PhD**
+
 - [*Shubham Dodia*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at VVIT, Pune).
 - [*Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at SJCE, Mangalore).
 - [*Manjunatha S H*](https://cse.nitk.ac.in/researchscholars/manjunatha), (Now Faculty at NMAMIT, Nitte).
