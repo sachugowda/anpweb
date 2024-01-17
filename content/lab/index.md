@@ -32,7 +32,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Satish Ambesenge*](https://www.linkedin.com/in/sateesh-ambesange-3020185/).
 - [*Sneha H R*](https://nmit.irins.org/profile/264945).
 - [*Naveen Kumar M R*](https://scholar.google.com/citations?user=6e9zAAoAAAAJ&hl=en).
-- [*Tirumanisetty Venkata Sneha*]
+- *Tirumanisetty Venkata Sneha*
   
 **Project Assistant**
 
