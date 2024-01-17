@@ -71,9 +71,9 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 
 **PhD**
 
-- [*Shubham Dodia*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at VVIT, Pune).
-- [*Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at SJCE, Mangalore).
-- [*Manjunatha S H*](https://cse.nitk.ac.in/researchscholars/manjunatha), (Now Faculty at NMAMIT, Nitte).
+- [*Dr. Shubham Dodia*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at VVIT, Pune).
+- [*Dr. Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at SJCE, Mangalore).
+- [*Dr. Manjunatha S H*](https://cse.nitk.ac.in/researchscholars/manjunatha), (Now Faculty at NMAMIT, Nitte).
 - [*Dr. Manoj Kumar M V*](https://www.linkedin.com/in). (Now Faculty at NMIT, Bangalore).
 - [*Dr. Sumith N, Ph.D*](https://www.linkedin.com/in). (Now Faculty at MIT, Manipal).
 - [*Dr. Likewin Thomas*](https://www.linkedin.com/in). (Now Faculty at PESITM, Shivamogga).
