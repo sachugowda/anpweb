@@ -60,7 +60,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 
 **External Students/Interns**
 
-- Sindhura S, IISc.
+- Sindhura S, IISc Bengaluru.
 - Ram Samarth BB, IIIT Kottayam
 - Srinidhi S, VVCE, Mysuru.
 - Prajwal, VVCE, Mysuru
@@ -86,6 +86,12 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Gowtham M*](https://www.linkedin.com/in). (Now serving at Boeing India).
 - [*Divya M*](https://www.linkedin.com/in).
 - [*Gita Shah*](https://www.linkedin.com/in).
+
+**External Students/Interns**
+
+- Chunduru Shri Abhijith, VIT, Chennai.
+- Vishnu Tej, NIT Andhra.
+
 ---
 **Latest Updates**
 ---
