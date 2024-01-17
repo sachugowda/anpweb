@@ -32,6 +32,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Satish Ambesenge*](https://www.linkedin.com/in/sateesh-ambesange-3020185/).
 - [*Sneha H R*](https://nmit.irins.org/profile/264945).
 - [*Naveen Kumar M R*](https://scholar.google.com/citations?user=6e9zAAoAAAAJ&hl=en).
+- [*Tirumanisetty Venkata Sneha*]
   
 **Project Assistant**
 
@@ -56,6 +57,13 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - Ajit Kumar Panigrahi
 - Balaji
 - Jyoti Suman Sahoo
+
+**External Students/Interns**
+
+- Sindhura S, IISc.
+- Ram Samarth BB, IIIT Kottayam
+- Srinidhi S, VVCE, Mysuru.
+- Prajwal, VVCE, Mysuru
   
 ---
 **Alumni**
