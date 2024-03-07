@@ -62,7 +62,6 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 
 - Sindhura S, IISc Bengaluru.
 - Ram Samarth BB, IIIT Kottayam
-- Srinidhi S, VVCE, Mysuru.
 - Prajwal, VVCE, Mysuru
   
 ---
