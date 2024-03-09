@@ -20,7 +20,7 @@ layout: custom_list
   **Technical Program Committee**, 
  - IEEE International Conference on Blockchain and Distributed Systems Security,  \
  IIIT Naya Raipur (2023).
- - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics, MITE Moodbidri-DISCOVER'18
+ - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics, MITE Moodbidri-DISCOVER'18, (2018)
    
   **General Chair**,  
  - 2nd IEEE International Conference on Data,   
@@ -49,5 +49,5 @@ layout: custom_list
  - IEEE Computer Society Chapter,  \
  India Council (2017-18).
 
-  **Secretary (2014-16)**,  
-  IEI Mangaluru Local Centre (2014-16).      
+  **Secretary**,  
+  - IEI Mangaluru Local Centre (2014-16).      
