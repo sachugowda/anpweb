@@ -22,9 +22,10 @@ layout: custom_list
  IIIT Naya Raipur (2023).
  - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics, MITE Moodbidri-DISCOVER'18
    
-  **General Chair**,  \
+  **General Chair**,  
  - 2nd IEEE International Conference on Data,   \
  Decision and Systems, NITK, Surathkal (2023).
+ -  IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics,MIT Manipal-DISCOVER2019,
  
   **Organizing chair**, \
  - 7th IEEE International Conference on Recent Advances and Innovations in Engineering,   \
