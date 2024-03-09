@@ -23,13 +23,16 @@ layout: custom_list
  - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics, MITE Moodbidri-DISCOVER'18
    
   **General Chair**,  
- - 2nd IEEE International Conference on Data,   \
+ - 2nd IEEE International Conference on Data,   
  Decision and Systems, NITK, Surathkal (2023).
- -  IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics,MIT Manipal-DISCOVER2019,
+ - 4th International Conference on Computer vision, High-performance computing, Smart devices and networks, JNTU Kakinada-CHSN'23, (2023).
+ -  IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics, MIT Manipal-DISCOVER2019, (2019).
  
-  **Organizing chair**, \
- - 7th IEEE International Conference on Recent Advances and Innovations in Engineering,   \
+  **Organizing chair**, 
+ - 7th IEEE International Conference on Recent Advances and Innovations in Engineering, 
  NITK, Surathkal (2022).
+ - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics,SMVITM Udupi-DISCOVER'20, (2020).
+ - International Conference on Advanced Computing, Networking and Security-ADCONS’13,(2013).
 
   **Branch Counsellor**,  \
   - NITK-IEEE Student Branch (Current).
