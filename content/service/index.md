@@ -17,9 +17,9 @@ layout: custom_list
 - **Senate Member**, \
  Indian Institute of Information Technology Surat (2024).
 - **Technical Program Committee**, \
- IEEE International Conference on Blockchain and Distributed Systems Security,  \
+ - IEEE International Conference on Blockchain and Distributed Systems Security,  \
  IIIT Naya Raipur (2023).
- IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics,\ \MITE Moodbidri-DISCOVER'18
+ - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics, \MITE Moodbidri-DISCOVER'18
 - **General Chair**,  \
  2nd IEEE International Conference on Data,   \
  Decision and Systems, NITK, Surathkal (2023).
