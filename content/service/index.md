@@ -31,20 +31,23 @@ layout: custom_list
   **Organizing chair**, 
  - 7th IEEE International Conference on Recent Advances and Innovations in Engineering, 
  NITK, Surathkal (2022).
- - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics,SMVITM Udupi-DISCOVER'20, (2020).
+ - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics, SMVITM Udupi-DISCOVER'20, (2020).
  - International Conference on Advanced Computing, Networking and Security-ADCONS’13,(2013).
 
-  **Branch Counsellor**,  \
-  - NITK-IEEE Student Branch (Current).
+  **Organizing chair**,
+ - IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics-DISCOVER'16, (2016)  
+
+  **Branch Counsellor**,
+  - NITK-IEEE Student Branch (2021-23).
     
-  **Visiting Professor**, \
--  Université des Mascareignes,   \
+  **Visiting Professor**, 
+-  Université des Mascareignes,   
  Mauritius (2017-2018).
 
-  **Chair (2018)**,   \
+  **Chair (2018)**,   
  - IEEE Mangalore subsection. (2018).
  - IEEE Computer Society Chapter,  \
  India Council (2017-18).
 
-  **Secretary (2014-16)**,  \
+  **Secretary (2014-16)**,  
   IEI Mangaluru Local Centre (2014-16).      
