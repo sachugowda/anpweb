@@ -15,7 +15,7 @@ draft: false
 layout: custom_list
 ---
   **Senate Member**, \
- Indian Institute of Information Technology Surat (2024).
+ - Indian Institute of Information Technology Surat (2024).
   **Technical Program Committee**, 
  - IEEE International Conference on Blockchain and Distributed Systems Security,  \
  IIIT Naya Raipur (2023).
