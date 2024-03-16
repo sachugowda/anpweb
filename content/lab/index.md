@@ -19,7 +19,6 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Current Team**
 ---
-![Team Photo](https://example.com/path/to/team_photo.jpg "DISCOVER Lab Team")
 
 **Postdoc Researcher**
 
