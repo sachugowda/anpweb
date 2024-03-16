@@ -19,33 +19,6 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Current Team**
 ---
-<table>
-<tr>
-<td>
-  <img src="https://example.com/path/to/student1_photo.jpg" alt="Student 1 Photo" style="width: 100px;"/><br>
-  <strong>Sachin D N</strong><br>
-  <a href="https://www.linkedin.com/in/sachin-dudda-nagaraju-a3838976/">LinkedIn</a>
-</td>
-<td>
-  <img src="https://example.com/path/to/student2_photo.jpg" alt="Student 2 Photo" style="width: 100px;"/><br>
-  <strong>Saraswati Koppad</strong><br>
-  <a href="https://cse.nitk.ac.in/researchscholars/saraswathi-koppad">Profile</a>
-</td>
-<td>
-  <img src="https://example.com/path/to/student3_photo.jpg" alt="Student 3 Photo" style="width: 100px;"/><br>
-  <strong>Aarabhi Putti</strong><br>
-  <a href="https://www.linkedin.com/in/aarabhi-putty-9b6270137/">LinkedIn</a>
-</td>
-<td>
-  <img src="https://example.com/path/to/student4_photo.jpg" alt="Student 4 Photo" style="width: 100px;"/><br>
-  <strong>Satish Ambesenge</strong><br>
-  <a href="https://www.linkedin.com/in/sateesh-ambesange-3020185/">LinkedIn</a>
-</td>
-</tr>
-</table>
-
-
-
 
 **Postdoc Researcher**
 
