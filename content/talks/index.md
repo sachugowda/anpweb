@@ -12,6 +12,12 @@ cover:
   relative: true
 showtoc: false
 draft: false
+
+---
+**2023**
+---
+- Delivered a session on "Generative AI" as part of the 6-day ATAL FDP titled "Generative AI and Metaverse: Tools and Technologies for Improving the Teaching and Learning Process in Higher Education," organized at GITAM Deemed University, Bengaluru campus.
+  
 ---
 **2023**
 ---
