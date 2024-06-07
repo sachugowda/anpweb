@@ -14,9 +14,10 @@ showtoc: false
 draft: false
 
 ---
-**2023**
+**2024**
 ---
-- Delivered a session on "Generative AI" as part of the 6-day ATAL FDP titled "Generative AI and Metaverse: Tools and Technologies for Improving the Teaching and Learning Process in Higher Education," organized at GITAM Deemed University, Bengaluru campus.
+- Delivered a key note talk on "Python for Data Science: Essentials to Expertise" as part of the "BelPy 2024 - International Python Conforence" organized at Belagavi on June 2024.
+- Delivered a session on "Data Science with Python" as part of the 10-day FDP titled "Harnessing Python for Data Science: Mastering Libraries and Frameworks for Advanced Analysis" organized at NMIT Bengaluru with NIT Waranga on May 2024.
   
 ---
 **2023**
