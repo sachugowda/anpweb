@@ -20,10 +20,6 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 **Current Team**
 ---
 
-**Postdoc Researcher**
-
-- *Sankar P*.
-
 **PhD Students**
 
 - [*Aarabhi Putti*](https://www.linkedin.com/in/aarabhi-putty-9b6270137/).
@@ -65,6 +61,9 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Alumni**
 ---
+**Postdoc Researcher**
+
+- *Sankar P*. (Now Faculty at VIT, Cgennai).
 
 **PhD**
 - [*Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad). (Now Faculty at MIT, Manipal).
@@ -95,4 +94,4 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Latest Updates**
 ---
--  "this is code of lab page usign hugo and paper mode" make proper two or three column and disply contentn is very effecient manner"
+-  
