@@ -90,6 +90,8 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - Chunduru Shri Abhijith, VIT, Chennai.
 - Vishnu Tej, NIT Andhra.
 - Ram Samarth BB, IIIT Kottayam
+- Sindhura S, IISc Bengaluru
+- Aditya Kasliwal, MIT Manipal
 
 ---
 **Latest Updates**
