@@ -94,4 +94,4 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Latest Updates**
 ---
--  
+-  As part of a collaboration at Université des Mascareignes, Mauritius, Mr. Sanjeev Kumar Cowlessur successfully completed his Ph.D. under the supervision of Professor Annappa B.
