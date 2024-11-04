@@ -29,7 +29,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Naveen Kumar M R*](https://scholar.google.com/citations?user=6e9zAAoAAAAJ&hl=en).
 - *Tirumanisetty Venkata Sneha*
   
-**Project Assistant**
+**Research Project Assistant pursuing PhD**
 
 - [*Chaitanya Lakshmi*](https://cse.l2.nitk.ac.in/researchscholars/chaitanya-lakshmi).
 
@@ -63,7 +63,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 ---
 **Postdoc Researcher**
 
-- *Sankar P*. (Now Faculty at VIT, Cgennai).
+- *Dr. Sankar P*. (Associate Professor, VIT, Chennai).
 
 **PhD**
 
@@ -78,12 +78,18 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Dr. Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), Assistant Professor, Department of Artificial Intelligence & Machine Learning, NMAM Institute of Technology, Nitte.
 - [*Dr. Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad), Faculty, Department of Information & Communication Technology, Manipal Institute of Technology, MAHE, Manipal.
 
+**PhD (outside NITK)**
+
+- [*Dr. Sanjeev K. Cowlessur*](https://www.linkedin.com/in/dr-sanjeev-k-cowlessur-09582217/), Senior Lecturer at Université des Mascareignes, Mauritius (PhD from Université des Mascareignes, Mauritius).
+- [*Dr. Prasenjit Kumar Das*](https://www.linkedin.com/in/dr-prasenjit-kumar-das-84611065/), Assistant Professor, Department of CST & CSIT, UEM Kolkata (PhD from NIT Silchar).
+
+
 
 **M.Tech by Research**
 
-- [*Gowtham M*](https://www.linkedin.com/in). (Now serving at Boeing India).
-- [*Divya M*](https://www.linkedin.com/in).
-- [*Gita Shah*](https://www.linkedin.com/in).
+- [*Gowtham L.*](https://www.linkedin.com/in/gowtham-l-854777109/), Programmer Analyst, Boeing.
+- [*Divya M.*](https://www.linkedin.com/in/divya-m-33498a6a/), Senior Software Engineer, Nokia.
+- [*Gita Shah*](https://www.linkedin.com/in/gita-shah-abb72348/), E-Learning Manager, TÜV SÜD.
 
 **External Students/Interns**
 
