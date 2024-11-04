@@ -66,16 +66,18 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - *Sankar P*. (Now Faculty at VIT, Cgennai).
 
 **PhD**
-- [*Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad). (Now Faculty at MIT, Manipal).
-- [*Dr. Shubham Dodia*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at VVIT, Pune).
-- [*Dr. Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), (Now Faculty at SJCE, Mangalore).
-- [*Dr. Manjunatha S H*](https://cse.nitk.ac.in/researchscholars/manjunatha), (Now Faculty at NMAMIT, Nitte).
-- [*Dr. Manoj Kumar M V*](https://www.linkedin.com/in). (Now Faculty at NMIT, Bangalore).
-- [*Dr. Sumith N, Ph.D*](https://www.linkedin.com/in). (Now Faculty at MIT, Manipal).
-- [*Dr. Likewin Thomas*](https://www.linkedin.com/in). (Now Faculty at PESITM, Shivamogga).
-- [*Dr. Bane Raman R*](https://www.linkedin.com/in). (Now Faculty at GIT, Lave).
-- [*Dr. Keethi Shetty*](https://www.linkedin.com/in). (Now serving at IIIT, Hydrabad).
-- [*Dr. Ashwin Kulkarni*](https://www.linkedin.com/in). (Now serving at Intel, India).
+
+- [*Dr. Manoj Kumar M V*](https://www.linkedin.com/in/manojmv24/), Professor, Department of Information Science Engineering, Nitte Meenakshi Institute of Technology, Bangalore.
+- [*Dr. Likewin Thomas*](https://pestrust.edu.in/pesitm/facultyDetails/121), Associate Professor & HOD, Department of Artificial Intelligence and Machine Learning, PES Institute of Technology and Management, Shivamogga.
+- [*Dr. Sumith N.*](https://www.manipal.edu/mit/department-faculty/faculty-list/SumitN.html), Associate Professor, Department of Information & Communication Technology, Manipal Institute of Technology, MAHE, Manipal.
+- [*Dr. Bane Raman R.*](https://www.linkedin.com/in/raman-bane-88a255b/), Principal, Yashwantrao Bhonsale Institute of Technology, Sawantwadi.
+- [*Dr. Keethi Shetty*](https://www.linkedin.com/in/keerthi-shetty-7075351a/), Postdoctoral Researcher, International Institute of Information Technology Hyderabad.
+- [*Dr. Ashwin Kulkarni*](https://www.linkedin.com/in/ashwin-kulkarni-4035737a/), GPU Software Development Engineer, Intel.
+- [*Dr. Shubham Dodia*](https://www.linkedin.com/in/dr-shubham-dodia-6045a1142/), Research Scientist, Computer Age Management Services Limited, Chennai.
+- [*Dr. Manjunatha S H*](https://www.manipal.edu/mit/department-faculty/faculty-list/dr--manjunatha---department-of-computer-science---engg---mit--ma/_jcr_content.html), Assistant Professor, Department of Information & Communication Technology, Manipal Institute of Technology, MAHE, Manipal.
+- [*Dr. Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), Assistant Professor, Department of Artificial Intelligence & Machine Learning, NMAM Institute of Technology, Nitte.
+- [*Dr. Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad), Faculty, Department of Information & Communication Technology, Manipal Institute of Technology, MAHE, Manipal.
+
 
 **M.Tech by Research**
 
