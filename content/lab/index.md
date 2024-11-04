@@ -55,7 +55,6 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 
 **External Students/Interns**
 
-- Sindhura S, IISc Bengaluru.
 - Prajwal, VVCE, Mysuru
   
 ---
