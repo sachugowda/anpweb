@@ -22,7 +22,7 @@ Throughout my career, I have been deeply involved in academia, serving as a Prof
 
 Research has been a driving force in my career, and I am delighted to have authored more than 100 research papers published in international conferences and journals. Over the years, I have actively participated in organizing and chairing various international conferences and have served as a reviewer for several esteemed journals.
 
-I am deeply committed to nurturing innovation and development in the academic community. Presently, I serve as the President of the Institute Innovation Council and the Chairman of the Career Development Cell. These roles allow me to inspire and guide young minds to explore their potential and contribute meaningfully to the field of computer science.
+I am dedicated to nurturing research, innovation, and development in the passionate minds of dedicated individuals. Presently, I am serving as Chairman of the Career Development Cell and Professor at the department of Computer Science and Engineering. Currently I am supervising seven research scholars. These roles allow me to inspire and guide young minds to explore their potential and contribute meaningfully to the field of computer science.
 
 
 I look forward to connecting with fellow researchers, students, and enthusiasts as we collectively advance the frontiers of technology and innovation.
