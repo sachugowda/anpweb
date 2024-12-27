@@ -17,6 +17,7 @@ draft: false
 **2024**
 ---
 - Delivered a key note talk on "Federated Learning: Data and System Heterogeneity Respective" at the 6th International Conference on Machine Learning, Image Processing, Network Security, and Data Sciences (MIND 2024), held on December 20th and 21st, 2024, at the National Institute of Technology Goa, India. The talk explored key challenges and solutions in federated learning, focusing on the implications of data and system heterogeneity in distributed machine learning environments.
+- Delivered a session on "Decentralizing Intelligence: How Edge Computing and Federated Learning Empower Generative AI" as part of the 10-day FDP titled "Harnessing Generative AI for Intelligent Systems in Today's Computing World." organized at NMIT Bengaluru with NIT Waranga on Nov 2024.
 - Delivered a key note talk on "Python for Data Science: Essentials to Expertise" as part of the "BelPy 2024 - International Python Conference" organized at Belagavi on June 2024.
 - Delivered a session on "Data Science with Python" as part of the 10-day FDP titled "Harnessing Python for Data Science: Mastering Libraries and Frameworks for Advanced Analysis" organized at NMIT Bengaluru with NIT Waranga on May 2024.
   
