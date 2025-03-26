@@ -51,10 +51,10 @@ jobs:
           hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: List contents of the public directory before upload
         run: ls -alh ./public  # Debugging: Check if the public folder has content before upload
-      - name: Sync public folder to GitHub Pages
-        run: |
-          mkdir -p $GITHUB_WORKSPACE/public
-          rsync -avz --delete ./public/ $GITHUB_WORKSPACE/public/
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./public
 
   # Deployment job
   deploy:
