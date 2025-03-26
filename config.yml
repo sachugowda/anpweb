@@ -15,15 +15,15 @@ minify:
   minifyOutput: true
 
 params:
-  env: production  # to enable google analytics, opengraph, twitter-cards, and schema
+  env: production
   title: "Prof. Annappa B"
-  description: "Experienced Professor, Former Head of the Department of Computer Science and Engineering and Chairman CDC at **National Institute of Technology Karnataka**, Surathkal, INDIA with a demonstrated history of working in higher education. Well-known Academician and Researcher in Computer Science & Engineering with a Ph.D. and M.Tech. in Computer Science & Engineering from NITK and B.E. in Computer Science & Engineering from Govt. B.D.T. College of Engineering, Davangere, Karnataka. Working primarily in the areas of Cloud Computing, Data Science, and Software Engineering."
+  description: "Experienced Professor, Former Head of the Department of Computer Science and Engineering and Chairman CDC at **National Institute of Technology Karnataka**, Surathkal, INDIA with a demonstrated history of working in higher education..."
   keywords:
     - Blog
     - Portfolio
     - Data Science
   DateFormat: "January 2, 2006"
-  defaultTheme: auto  # dark, light
+  defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: false
   ShowShareButtons: false
@@ -40,13 +40,17 @@ params:
 
   label:
     text: "Prof. Annappa B"
-    # icon: "images/coding.png"
-    # iconHeight: 35
+
+  social:
+    twitter: "https://twitter.com/yourhandle"
+    linkedin: "https://www.linkedin.com/in/yourhandle/"
+    github: "https://github.com/yourhandle"
+    email: "mailto:your-email@example.com"
 
   profileMode:
-    enabled: true  # needs to be explicitly set
-    title: "Prof. Annappa B "
-    subtitle: "**Professor** - Dept of CSE | **Chairman** - Career Development Center (CDC) | **Chairman** - Centre for Cyber Physical Systems(CCPS), **National Institute of Technology Karnataka (NITK)**, Surathkal, India."
+    enabled: true
+    title: "Prof. Annappa B"
+    subtitle: "**Professor** - Dept of CSE | **Chairman** - Career Development Center (CDC) | **Chairman** - Centre for Cyber Physical Systems (CCPS)"
     imageUrl: "picture.jpeg"
     imageWidth: 120
     imageHeight: 120
@@ -54,7 +58,7 @@ params:
     buttons:
       - name: "NITK"
         url: "https://www.nitk.ac.in/"
-      - name: "Sponserd Projects"
+      - name: "Sponsored Projects"
         url: "projects"
       - name: "Invited Talks"
         url: "talks"
@@ -63,42 +67,28 @@ params:
       - name: "Teaching"
         url: "teaching"
 
-  social:  # Correctly formatted with hyphens and proper indentation
-    - name: "CV"
-      url: "cv.pdf"
-    - name: "NITK Profile"
-      url: "https://cse.nitk.ac.in/faculty/annappa"
-    - name: "googlescholar"
-      url: "https://scholar.google.co.in/citations?user=X6XzPxYAAAAJ&hl=en"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/annappa/"
-    - name: "Email"
-      url: "mailto:annappa@nitk.edu.in"
-    - name: "Scopus Profile"
-      url: "https://www.scopus.com/authid/detail.uri?authorId=35179174200"
+cover:
+  hidden: true
+  hiddenInList: true
+  hiddenInSingle: false
 
-  cover:
-    hidden: true  # hide everywhere but not in structured data
-    hiddenInList: true  # hide on list pages and home
-    hiddenInSingle: false  # hide on single page
+editPost:
+  URL: ""
+  Text: ""
+  appendFilePath: true
 
-  editPost:
-    URL: ""
-    Text: ""  # edit text
-    appendFilePath: true  # to append file path to Edit link
-
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys:
-      - "title"
-      - "permalink"
-      - "summary"
-      - "content"
+fuseOpts:
+  isCaseSensitive: false
+  shouldSort: true
+  location: 0
+  distance: 1000
+  threshold: 0.4
+  minMatchCharLength: 0
+  keys:
+    - "title"
+    - "permalink"
+    - "summary"
+    - "content"
 
 assets:
   favicon: "/favicon/favicon.ico"
