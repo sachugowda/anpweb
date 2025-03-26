@@ -41,7 +41,11 @@ params:
   label:
     text: "Prof. Annappa B"
 
- 
+  social:
+    twitter: "https://twitter.com/yourhandle"
+    linkedin: "https://www.linkedin.com/in/yourhandle/"
+    github: "https://github.com/yourhandle"
+    email: "mailto:your-email@example.com"
 
   profileMode:
     enabled: true
