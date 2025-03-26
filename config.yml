@@ -63,19 +63,16 @@ params:
       - name: "Teaching"
         url: "teaching"
 
-  socialIcons:
-    - name: "CV"
-      url: "cv.pdf"
-    - name: "NITK Profile"
-      url: "https://cse.nitk.ac.in/faculty/annappa"
-    - name: "googlescholar"
-      url: "https://scholar.google.co.in/citations?user=X6XzPxYAAAAJ&hl=en"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/annappa/"
-    - name: "Email"
-      url: "mailto:annappa@nitk.edu.in"
-    - name: "Scopus Profile"
-      url: "https://www.scopus.com/authid/detail.uri?authorId=35179174200"
+ [params]
+  social = [
+    { name = "CV", url = "cv.pdf" },
+    { name = "NITK Profile", url = "https://cse.nitk.ac.in/faculty/annappa" },
+    { name = "googlescholar", url = "https://scholar.google.co.in/citations?user=X6XzPxYAAAAJ&hl=en" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/annappa/" },
+    { name = "Email", url = "mailto:annappa@nitk.edu.in" },
+    { name = "Scopus Profile", url = "https://www.scopus.com/authid/detail.uri?authorId=35179174200" }
+  ]
+
 
   cover:
     hidden: true  # hide everywhere but not in structured data
