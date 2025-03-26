@@ -52,7 +52,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Prof. Annappa B "
-    subtitle: "**Professor** - Dept of CSE | **Chairman** - Career Development Center (CDC) | **President** - IIC, **National Institute of Technology Karnataka (NITK),** Surathkal, India."
+    subtitle: "**Professor** - Dept of CSE | **Chairman** - Career Development Center (CDC) | **President** - Centre for Cyber Physical Systems(CCPS), **National Institute of Technology Karnataka (NITK),** Surathkal, India."
     imageUrl: "picture.jpeg"
     imageWidth: 120
     imageHeight: 120
