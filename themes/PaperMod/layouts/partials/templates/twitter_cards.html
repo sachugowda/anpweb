@@ -4,7 +4,7 @@
     <meta name="twitter:image" content="{{ .Params.cover.image | absURL }}" />
   {{- else }}
     <meta name="twitter:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" />
-  {{- end}}
+  {{- end }}
 {{- else }}
   {{- with $.Params.images -}}
     <meta name="twitter:card" content="summary_large_image"/>
@@ -28,5 +28,11 @@
 {{- end }}
 
 <meta name="twitter:title" content="{{ .Title }}"/>
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
-<meta name="twitter:site" content="@{{ .Site.Params.Social.twitter }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+
+<!-- Check if Social Twitter is defined, and if not, use a fallback or leave it empty -->
+{{- if .Site.Params.Social.twitter }}
+  <meta name="twitter:site" content="@{{ .Site.Params.Social.twitter }}"/>
+{{- else }}
+  <meta name="twitter:site" content="@defaultHandle"/> <!-- Replace with your fallback Twitter handle -->
+{{- end }}
