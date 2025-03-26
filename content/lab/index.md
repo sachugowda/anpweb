@@ -74,7 +74,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Dr. Manjunatha S H*](https://www.manipal.edu/mit/department-faculty/faculty-list/dr--manjunatha---department-of-computer-science---engg---mit--ma/_jcr_content.html), Assistant Professor, Department of Information & Communication Technology, Manipal Institute of Technology, MAHE, Manipal.
 - [*Dr. Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), Assistant Professor, Department of Artificial Intelligence & Machine Learning, NMAM Institute of Technology, Nitte.
 - [*Dr. Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad), Faculty, Department of Information & Communication Technology, Manipal Institute of Technology, MAHE, Manipal.
-- [*Dr. Sachin D N*](https://www.linkedin.com/in/sachin-dudda-nagaraju-a3838976/), Visiting Researcher, Cancer Imaging and Multi-Omics Research Group, NTNU, Norway.
+- [*Dr. Sachin D N*](https://www.linkedin.com/in/sachin-dudda-nagaraju-a3838976/), Researcher, Cancer Imaging and Multi-Omics Research Group, NTNU, Norway.
 
 **PhD (outside NITK)**
 
