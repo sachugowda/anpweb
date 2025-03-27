@@ -1,9 +1,10 @@
-languageCode = "en-us"
-baseURL = "https://annappa.in/"
-title = "Prof. Annappa B"
+languageCode: "en-us"
+baseURL: "https://annappa.in/"
+title: "Prof. Annappa B"
 pagination:
-  pagerSize = 5
-theme = "PaperMod"
+  pagerSize: 5
+theme: "PaperMod"
+
 
 enableRobotsTXT: true
 buildDrafts: false
