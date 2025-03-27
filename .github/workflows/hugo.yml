@@ -53,7 +53,7 @@ jobs:
           restore-keys:
             hugo-
       - name: Initialize Hugo modules
-        run: hugo mod init && hugo mod vendor
+        run: hugo mod vendor  # Only need this to download and prepare Hugo modules
       - name: Build with Hugo
         run: |
           hugo \
