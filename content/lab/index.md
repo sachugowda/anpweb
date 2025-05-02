@@ -52,9 +52,6 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - Balaji
 - Jyoti Suman Sahoo
 
-**External Students/Interns*
--
-  
 ---
 **Alumni**
 ---
