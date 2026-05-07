@@ -22,7 +22,6 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 
 **PhD Students**
 
-- [*Aarabhi Putti*](https://www.linkedin.com/in/aarabhi-putty-9b6270137/).
 - [*Satish Ambesenge*](https://www.linkedin.com/in/sateesh-ambesange-3020185/).
 - [*Sneha H R*](https://nmit.irins.org/profile/264945).
 - [*Naveen Kumar M R*](https://scholar.google.com/citations?user=6e9zAAoAAAAJ&hl=en).
@@ -72,6 +71,7 @@ My research is on Cloud, Edge & Distrubuted Computing, Computer Vision Applicati
 - [*Dr. Rashmi Adyapady*](https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r), Assistant Professor, Department of Artificial Intelligence & Machine Learning, NMAM Institute of Technology, Nitte.
 - [*Dr. Saraswati Koppad*](https://cse.nitk.ac.in/researchscholars/saraswathi-koppad), Faculty, Department of Information & Communication Technology, Manipal Institute of Technology, MAHE, Manipal.
 - [*Dr. Sachin D N*](https://www.linkedin.com/in/sachin-dudda-nagaraju-a3838976/), PostDoc Researcher, Cancer Imaging and Multi-Omics Research Group, NTNU, Norway.
+- [*Dr. Aarabhi Putti*](https://www.linkedin.com/in/aarabhi-putty-9b6270137/). Faculty, Manipal Institute of Technology, MAHE, Manipal.
 
 **PhD (outside NITK)**
 
