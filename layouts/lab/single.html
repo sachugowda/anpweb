@@ -1,0 +1,430 @@
+{{ define "main" }}
+<style>
+  :root {
+    --lab-primary: #1a3a5c;
+    --lab-accent: #2563eb;
+    --lab-phd: #059669;
+    --lab-mtech: #7c3aed;
+    --lab-btech: #d97706;
+    --lab-rpa: #0891b2;
+    --lab-card-bg: #f8fafc;
+    --lab-card-border: #e2e8f0;
+    --lab-text: #1e293b;
+    --lab-muted: #64748b;
+    --lab-hero-text: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --lab-card-bg: #1e293b;
+      --lab-card-border: #334155;
+      --lab-text: #e2e8f0;
+      --lab-muted: #94a3b8;
+    }
+  }
+  .lab-hero {
+    background: linear-gradient(135deg, #1a3a5c 0%, #2563eb 100%);
+    border-radius: 16px;
+    padding: 3rem 2rem;
+    text-align: center;
+    margin-bottom: 2.5rem;
+    color: var(--lab-hero-text);
+  }
+  .lab-hero h1 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    margin: 0 0 0.5rem 0;
+    color: #fff;
+    border: none;
+  }
+  .lab-hero .lab-acronym {
+    font-size: 0.95rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-bottom: 1rem;
+  }
+  .lab-hero .lab-tagline {
+    font-size: 1.05rem;
+    opacity: 0.9;
+    max-width: 640px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  .lab-section {
+    margin-bottom: 2.5rem;
+  }
+  .lab-section-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--lab-primary);
+    border-left: 4px solid var(--lab-accent);
+    padding-left: 0.75rem;
+    margin-bottom: 1.25rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    .lab-section-title { color: #93c5fd; }
+  }
+  /* Research Cards */
+  .research-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  .research-card {
+    background: var(--lab-card-bg);
+    border: 1px solid var(--lab-card-border);
+    border-radius: 12px;
+    padding: 1.25rem 1rem;
+    text-align: center;
+    transition: box-shadow 0.2s;
+  }
+  .research-card:hover { box-shadow: 0 4px 16px rgba(37,99,235,0.12); }
+  .research-card .r-icon { font-size: 2rem; margin-bottom: 0.5rem; }
+  .research-card .r-title { font-size: 0.85rem; font-weight: 600; color: var(--lab-text); }
+  /* Team Grid */
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+  }
+  .team-card {
+    background: var(--lab-card-bg);
+    border: 1px solid var(--lab-card-border);
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .team-avatar {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1rem;
+    flex-shrink: 0;
+    color: #fff;
+  }
+  .avatar-phd { background: var(--lab-phd); }
+  .avatar-mtech { background: var(--lab-mtech); }
+  .avatar-btech { background: var(--lab-btech); }
+  .avatar-rpa { background: var(--lab-rpa); }
+  .team-info .t-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--lab-text);
+    text-decoration: none;
+  }
+  .team-info .t-name:hover { text-decoration: underline; color: var(--lab-accent); }
+  .badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.15rem 0.5rem;
+    border-radius: 99px;
+    margin-top: 0.2rem;
+    letter-spacing: 0.03em;
+  }
+  .badge-phd { background: #d1fae5; color: #065f46; }
+  .badge-mtech { background: #ede9fe; color: #4c1d95; }
+  .badge-btech { background: #fef3c7; color: #92400e; }
+  .badge-rpa { background: #e0f2fe; color: #0c4a6e; }
+  @media (prefers-color-scheme: dark) {
+    .badge-phd { background: #064e3b; color: #6ee7b7; }
+    .badge-mtech { background: #2e1065; color: #c4b5fd; }
+    .badge-btech { background: #451a03; color: #fcd34d; }
+    .badge-rpa { background: #0c4a6e; color: #7dd3fc; }
+  }
+  /* Alumni */
+  .alumni-category { margin-bottom: 1.5rem; }
+  .alumni-category-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--lab-muted);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--lab-card-border);
+  }
+  .alumni-list { list-style: none; padding: 0; margin: 0; }
+  .alumni-list li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.45rem 0;
+    border-bottom: 1px solid var(--lab-card-border);
+    font-size: 0.95rem;
+  }
+  .alumni-list li:last-child { border-bottom: none; }
+  .alumni-list a { color: var(--lab-accent); font-weight: 600; text-decoration: none; }
+  .alumni-list a:hover { text-decoration: underline; }
+  .alumni-pos { color: var(--lab-muted); font-size: 0.85rem; }
+  /* Timeline */
+  .news-list { list-style: none; padding: 0; margin: 0; }
+  .news-list li {
+    display: flex;
+    gap: 1rem;
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--lab-card-border);
+    align-items: flex-start;
+    font-size: 0.95rem;
+    color: var(--lab-text);
+  }
+  .news-list li:last-child { border-bottom: none; }
+  .news-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--lab-accent);
+    flex-shrink: 0;
+    margin-top: 0.35rem;
+  }
+  @media (max-width: 600px) {
+    .lab-hero h1 { font-size: 1.5rem; }
+    .team-grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div class="lab-hero">
+  <div class="lab-acronym">D·I·S·C·O·V·E·R</div>
+  <h1>DISCOVER Lab @ NITK</h1>
+  <p class="lab-tagline"><strong>Distributed Computing and Vision Intelligence Research Lab</strong><br>
+  Department of Computer Science &amp; Engineering, NIT Karnataka, Surathkal</p>
+</div>
+
+<!-- Research Focus -->
+<div class="lab-section">
+  <div class="lab-section-title">Research Focus</div>
+  <div class="research-grid">
+    <div class="research-card"><div class="r-icon">☁️</div><div class="r-title">Cloud &amp; Edge Computing</div></div>
+    <div class="research-card"><div class="r-icon">👁️</div><div class="r-title">Computer Vision</div></div>
+    <div class="research-card"><div class="r-icon">🧠</div><div class="r-title">Explainable AI</div></div>
+    <div class="research-card"><div class="r-icon">🔗</div><div class="r-title">Federated Learning</div></div>
+    <div class="research-card"><div class="r-icon">🖧</div><div class="r-title">Distributed Systems</div></div>
+  </div>
+</div>
+
+<!-- Current Team -->
+<div class="lab-section">
+  <div class="lab-section-title">Current Team</div>
+  <div class="team-grid">
+
+    <div class="team-card">
+      <div class="team-avatar avatar-phd">SA</div>
+      <div class="team-info">
+        <a class="t-name" href="https://www.linkedin.com/in/sateesh-ambesange-3020185/" target="_blank" rel="noopener">Satish Ambesenge</a>
+        <div><span class="badge badge-phd">PhD Student</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-phd">SH</div>
+      <div class="team-info">
+        <a class="t-name" href="https://nmit.irins.org/profile/264945" target="_blank" rel="noopener">Sneha H R</a>
+        <div><span class="badge badge-phd">PhD Student</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-phd">NK</div>
+      <div class="team-info">
+        <a class="t-name" href="https://scholar.google.com/citations?user=6e9zAAoAAAAJ&hl=en" target="_blank" rel="noopener">Naveen Kumar M R</a>
+        <div><span class="badge badge-phd">PhD Student</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-phd">TV</div>
+      <div class="team-info">
+        <span class="t-name">Tirumanisetty Venkata Sneha</span>
+        <div><span class="badge badge-phd">PhD Student</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-rpa">CL</div>
+      <div class="team-info">
+        <a class="t-name" href="https://cse.l2.nitk.ac.in/researchscholars/chaitanya-lakshmi" target="_blank" rel="noopener">Chaitanya Lakshmi</a>
+        <div><span class="badge badge-rpa">Research Project Asst</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-mtech">AN</div>
+      <div class="team-info">
+        <span class="t-name">Ambaliya Nishant</span>
+        <div><span class="badge badge-mtech">MTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-mtech">GY</div>
+      <div class="team-info">
+        <span class="t-name">Govind Yadhav</span>
+        <div><span class="badge badge-mtech">MTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-mtech">VW</div>
+      <div class="team-info">
+        <span class="t-name">Vishwas</span>
+        <div><span class="badge badge-mtech">MTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-mtech">SS</div>
+      <div class="team-info">
+        <span class="t-name">Saurav Singh</span>
+        <div><span class="badge badge-mtech">MTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-mtech">PP</div>
+      <div class="team-info">
+        <span class="t-name">Prabhuddo Paul</span>
+        <div><span class="badge badge-mtech">MTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">SR</div>
+      <div class="team-info">
+        <span class="t-name">Shilwant Roy</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">RS</div>
+      <div class="team-info">
+        <span class="t-name">Rishad Shetty</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">VL</div>
+      <div class="team-info">
+        <span class="t-name">Vaishnavi L</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">HJ</div>
+      <div class="team-info">
+        <span class="t-name">Hrushikesh J</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">SM</div>
+      <div class="team-info">
+        <span class="t-name">Samyak Sanjay Sand</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">SI</div>
+      <div class="team-info">
+        <span class="t-name">Siddharth Srinivasan</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">AK</div>
+      <div class="team-info">
+        <span class="t-name">Ajit Kumar Panigrahi</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">BJ</div>
+      <div class="team-info">
+        <span class="t-name">Balaji</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <div class="team-avatar avatar-btech">JS</div>
+      <div class="team-info">
+        <span class="t-name">Jyoti Suman Sahoo</span>
+        <div><span class="badge badge-btech">BTech</span></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Alumni -->
+<div class="lab-section">
+  <div class="lab-section-title">Alumni</div>
+
+  <div class="alumni-category">
+    <div class="alumni-category-title">Postdoc Researcher</div>
+    <ul class="alumni-list">
+      <li><span>Dr. Sankar P.</span><span class="alumni-pos">— Associate Professor, VIT Chennai</span></li>
+    </ul>
+  </div>
+
+  <div class="alumni-category">
+    <div class="alumni-category-title">PhD — NITK</div>
+    <ul class="alumni-list">
+      <li><a href="https://www.linkedin.com/in/manojmv24/" target="_blank" rel="noopener">Dr. Manoj Kumar M V</a><span class="alumni-pos">— Professor, NMIT Bangalore</span></li>
+      <li><a href="https://pestrust.edu.in/pesitm/facultyDetails/121" target="_blank" rel="noopener">Dr. Likewin Thomas</a><span class="alumni-pos">— Associate Professor &amp; HOD, PES Institute</span></li>
+      <li><a href="https://www.manipal.edu/mit/department-faculty/faculty-list/SumitN.html" target="_blank" rel="noopener">Dr. Sumith N.</a><span class="alumni-pos">— Associate Professor, MIT MAHE</span></li>
+      <li><a href="https://www.linkedin.com/in/raman-bane-88a255b/" target="_blank" rel="noopener">Dr. Bane Raman R.</a><span class="alumni-pos">— Principal, Yashwantrao Bhonsale Institute of Technology</span></li>
+      <li><a href="https://www.linkedin.com/in/keerthi-shetty-7075351a/" target="_blank" rel="noopener">Dr. Keethi Shetty</a><span class="alumni-pos">— Postdoctoral Researcher, IIIT Hyderabad</span></li>
+      <li><a href="https://www.linkedin.com/in/ashwin-kulkarni-4035737a/" target="_blank" rel="noopener">Dr. Ashwin Kulkarni</a><span class="alumni-pos">— GPU Software Dev Engineer, Intel</span></li>
+      <li><a href="https://www.linkedin.com/in/dr-shubham-dodia-6045a1142/" target="_blank" rel="noopener">Dr. Shubham Dodia</a><span class="alumni-pos">— Research Scientist, CAMS Chennai</span></li>
+      <li><a href="https://www.manipal.edu/mit/department-faculty/faculty-list/dr--manjunatha---department-of-computer-science---engg---mit--ma/_jcr_content.html" target="_blank" rel="noopener">Dr. Manjunatha S H</a><span class="alumni-pos">— Assistant Professor, MIT Manipal</span></li>
+      <li><a href="https://cse.nitk.ac.in/researchscholars/rashmi-adyapady-r" target="_blank" rel="noopener">Dr. Rashmi Adyapady</a><span class="alumni-pos">— Assistant Professor, NMAM Institute of Technology</span></li>
+      <li><a href="https://cse.nitk.ac.in/researchscholars/saraswathi-koppad" target="_blank" rel="noopener">Dr. Saraswati Koppad</a><span class="alumni-pos">— Faculty, MIT MAHE Manipal</span></li>
+      <li><a href="https://www.linkedin.com/in/sachin-dudda-nagaraju-a3838976/" target="_blank" rel="noopener">Dr. Sachin D N</a><span class="alumni-pos">— PostDoc, Cancer Imaging Research Group, NTNU Norway</span></li>
+      <li><a href="https://www.linkedin.com/in/aarabhi-putty-9b6270137/" target="_blank" rel="noopener">Dr. Aarabhi Putti</a><span class="alumni-pos">— Faculty, MIT MAHE Manipal</span></li>
+    </ul>
+  </div>
+
+  <div class="alumni-category">
+    <div class="alumni-category-title">PhD — Outside NITK</div>
+    <ul class="alumni-list">
+      <li><a href="https://www.linkedin.com/in/dr-sanjeev-k-cowlessur-09582217/" target="_blank" rel="noopener">Dr. Sanjeev K. Cowlessur</a><span class="alumni-pos">— Senior Lecturer, Université des Mascareignes, Mauritius</span></li>
+      <li><a href="https://www.linkedin.com/in/dr-prasenjit-kumar-das-84611065/" target="_blank" rel="noopener">Dr. Prasenjit Kumar Das</a><span class="alumni-pos">— Assistant Professor, UEM Kolkata</span></li>
+    </ul>
+  </div>
+
+  <div class="alumni-category">
+    <div class="alumni-category-title">M.Tech by Research</div>
+    <ul class="alumni-list">
+      <li><a href="https://www.linkedin.com/in/gowtham-l-854777109/" target="_blank" rel="noopener">Gowtham L.</a><span class="alumni-pos">— Programmer Analyst, Boeing</span></li>
+      <li><a href="https://www.linkedin.com/in/divya-m-33498a6a/" target="_blank" rel="noopener">Divya M.</a><span class="alumni-pos">— Senior Software Engineer, Nokia</span></li>
+      <li><a href="https://www.linkedin.com/in/gita-shah-abb72348/" target="_blank" rel="noopener">Gita Shah</a><span class="alumni-pos">— E-Learning Manager, TÜV SÜD</span></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Latest Updates -->
+<div class="lab-section">
+  <div class="lab-section-title">Latest Updates</div>
+  <ul class="news-list">
+    <li>
+      <div class="news-dot"></div>
+      <span>As part of a collaboration at Université des Mascareignes, Mauritius, Mr. Sanjeev Kumar Cowlessur successfully completed his Ph.D. under the supervision of Professor Annappa B.</span>
+    </li>
+  </ul>
+</div>
+
+{{ end }}
