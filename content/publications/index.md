@@ -13,43 +13,19 @@ cover:
 showtoc: false
 draft: false
 ---
-**2024**
+**2026**
 ---
-- **[Federated Learning for Digital Healthcare: Concepts, Applications, Frameworks, and Challenges](https://link.springer.com/article/10.1007/s00607-023-01234-1)**  
-  DN Sachin, B Annappa, S Ambesange  
-  *Computing*, 106(9), 3113-3150  
+- **[Digitizing historical Kannada: An OCR approach for Yakshagana scripts based on glyph-to-Unicode dictionaries](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X6XzPxYAAAAJ&sortby=pubdate&citation_for_view=X6XzPxYAAAAJ:pRWBApOjXDcC)**  
+  GK Roopa, PS Thilagam, B Annappa  
+  *Digital Applications in Archaeology and Cultural Heritage*, e00531
 
-- **[Hybrid Approach for Handling Class Imbalance on Medical Data](https://ieeexplore.ieee.org/abstract/document/10233456/)**  
-  JK Sujay, DT Surakshith, TY Uday, HR Sneha, B Annappa, V Sushma  
-  *2024 International Conference on Data Science and Network Security (ICDSNS)*
+- **[Artificial Intelligence and Knowledge Processing: 5th International Conference, AIKP 2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X6XzPxYAAAAJ&sortby=pubdate&citation_for_view=X6XzPxYAAAAJ:NU-BerS4NX4C)**  
+  H Kannan, RV Rodriguez, M Rege, V Piuri, A AdeIbijola, MLG de León, et al.  
+  *Springer Nature*
 
-- **[Multi Criteria Based Container Management in a Geo-Distributed Cluster](https://ieeexplore.ieee.org/document/10245433)**  
-  NK MR, B Annappa  
-  *2024 IEEE International Conference on Electronics, Computing, and Technology*
-
-- **[A Dual Phase Approach for Addressing Class Imbalance in Land-Use and Land-Cover Mapping from Remotely Sensed Images](https://ieeexplore.ieee.org/document/10238927)**  
-  A Putty, B Annappa, R Prajwal, SP Perumal  
-  *IEEE Access*
-
-- **[FedLSF: Federated Local Graph Learning via Specformers](https://ieeexplore.ieee.org/document/10230998)**  
-  RS BB, B Annappa, DN Sachin  
-  *2024 20th International Conference on Distributed Computing in Smart Systems*
-
-- **[ARIMA-PID: Container Auto Scaling Based on Predictive Analysis and Control Theory](https://link.springer.com/article/10.1007/s11042-023-16587-0)**  
-  NS Joshi, R Raghuwanshi, YM Agarwal, B Annappa, DN Sachin  
-  *Multimedia Tools and Applications*, 83(9), 26369-26386
-
-- **[Fedcure: A Heterogeneity-Aware Personalized Federated Learning Framework for Intelligent Healthcare Applications in IoMT Environments](https://ieeexplore.ieee.org/document/10249878)**  
-  DN Sachin, B Annappa, S Hegde, CS Abhijit, S Ambesange  
-  *IEEE Access*
-
-- **[BENN: Balanced Ensemble Neural Network for Handling Class Imbalance in Big Data](https://onlinelibrary.wiley.com/doi/10.1002/exsy.13754)**  
-  SH Ramesh, A Basava, SP Perumal  
-  *Expert Systems*, e13754
-
-- **[Exploratory Analysis of Methods, Techniques, and Metrics to Handle Class Imbalance Problem](https://www.sciencedirect.com/science/article/pii/S1877050923003289)**  
-  HR Sneha, B Annappa  
-  *Procedia Computer Science*, 235, 863-877
+- **[YakshaVarnika — A Journey into the Soul of Yakshagana's Legendary Characters using Deep Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X6XzPxYAAAAJ&sortby=pubdate&citation_for_view=X6XzPxYAAAAJ:M0j1y4EgrScC)**  
+  GK Roopa, PS Thilagam, B Annappa, A Aparna, KS Poorvika, VS Swapna, et al.  
+  *International Conference on Sustainable Innovation with Artificial Intelligence*
 
 
 ---
